@@ -1,0 +1,27 @@
+/*
+* @Author: calasaba
+* @Date:   2018-08-01 16:45:56
+* @Last Modified by:   calasaba
+* @Last Modified time: 2018-08-01 16:46:43
+*/
+.bigBox{
+    width: 100vw;
+    height: 100vw;
+    margin:0 auto;
+    border: 1vw solid #ccc;
+}
+.smallBox{
+    width: 30vw;
+    height:30vw;
+    background: #ffa600;
+    float : left;
+    margin: 1vw;
+    -moz-border-radius : 10%;
+    -webkit-border-radius : 10%;
+    -o-border-radius : 10%;
+    -ms-border-radius : 10%;
+    border-radius : 10%;
+}
+.overflow: {
+    overflow: auto;
+}
